@@ -1,4 +1,4 @@
-#HealthySlug
+# HealthySlug
 Healthy Slug is an app which curates diets for UCSC students based on their dietary goals
 
 takes a list of foods scraped from the UCSC dining page using selenium and stores them
