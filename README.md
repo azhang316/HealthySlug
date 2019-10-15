@@ -10,7 +10,7 @@ This app was created in Android Studio for phones running Android 5.1 or higher.
 * Selenium
 
 ## Contributors
-- **Wilson Chiu** - [wilsonmchiu](https://github.com/wilsonmchiu)
 - **Andrew Zhang** - [azhang316](https://github.com/azhang316)
+- **Wilson Chiu** - [wilsonmchiu](https://github.com/wilsonmchiu)
 - **Joseph Wong** - [JosephKyleWong](https://github.com/JosephKyleWong)
 - **Colin Chen** - [ColinAChen](https://github.com/ColinAChen)
